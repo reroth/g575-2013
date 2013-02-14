@@ -1,0 +1,11 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 5px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#map {
+	height: 100%;
+	width: 100%;
+}
