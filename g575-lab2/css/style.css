@@ -1,0 +1,28 @@
+body {
+	width: 100%;
+	height: 100%;
+	margin: 5px;
+	font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#map {
+	height: 400px;
+	width: 800px;
+}
+#vcr-controls {
+	margin: 8x 0 0 5px;
+	padding: 3px;
+}
+.vcr {
+	float: left;
+	margin-right: 3px;
+	width: 48px;
+	height: 32px;
+}
+.vcr:hover {
+	opacity: .4;
+}
+#temporalSlider {
+	margin: 10px 20px 0 270px;
+	width: 500px;
+}
