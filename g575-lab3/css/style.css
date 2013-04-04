@@ -1,0 +1,74 @@
+svg {
+	position: absolute;
+}
+
+.countries {
+  fill: #fff;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+
+.gratBackground {
+		fill: #D5E3FF;
+}
+
+.gratLines {
+		fill: none;
+		stroke: #999;
+		stroke-width: 1px;
+} 
+
+.infolabel {
+	position: absolute;
+	width: 200px;
+	height: 50px;
+	color: #fff;
+	background-color: #000;
+	border: solid thin #fff;
+	padding: 5px;
+}
+
+.infolabel h1 {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+	line-height: 1em;
+}
+
+.infolabel b {
+	float: left;
+}
+
+.labelname {
+	display: inline-block;
+	float: right;
+	margin: -25px 0px 0px 40px;
+	font-size: 1em;
+	font-weight: bold;
+	position: absolute;
+}
+
+.pcplot {
+	margin-top: 470px;
+}
+
+.pcpBackground {
+	fill: #ccc;
+	opacity: 0.5;
+	stroke: #000;
+	stroke-width: 4px;
+}
+
+.pcpLines path {
+		fill: none;
+		stroke-width: 4px;
+		stroke: #1e90ff;
+	}
+	
+.axes path {
+	fill: none;
+	stroke: #000;
+	stroke-opacity: 0.5;
+	stroke-linecap: round;
+}
+	
